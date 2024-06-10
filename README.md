@@ -1,6 +1,4 @@
 ## Hey there everybody!
-This is where I post my code,
-
 ![Top Languages](https://github-readme-stats-gray-eight-32.vercel.app/api/top-langs/?username=nightcycle&layout=compact,github-readme-stats&hide=shell,html)
 <!--
 **nightcycle/nightcycle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
